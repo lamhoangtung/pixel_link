@@ -3,7 +3,7 @@ set -e
 
 export CUDA_VISIBLE_DEVICES=$1
 
-python test_pixel_link_on_any_image.py \
+python2 test_pixel_link_on_any_image.py \
             --checkpoint_path=$2 \
             --dataset_dir=$3 \
             --eval_image_width=1280\
