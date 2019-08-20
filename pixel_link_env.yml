@@ -46,5 +46,5 @@ dependencies:
   - subprocess32==3.2.7
   - tensorflow==1.1.0
   - virtualenv==15.1.0
-prefix: /home/dengdan/anaconda2/envs/pixel_link
+prefix: /Users/linus/anaconda/envs/pixel_link
 
